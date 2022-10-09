@@ -1,0 +1,41 @@
+body{
+    background-color: #3f87b7;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+#submit{
+    background-color: #5aadb3; /* Green */
+  border: none;
+  border-radius: 10px;
+  color: white;
+  margin: 15px;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 0 8px 32px 0 rgba(1, 18, 255, 0.37);;
+  backdrop-filter: blur(6px);
+  
+}
+#qBox{
+    background: rgba(252, 0, 0, 0.1);
+box-shadow: 0 8px 32px 0 rgba(1, 18, 255, 0.37);
+backdrop-filter: blur( 6px );
+-webkit-backdrop-filter: blur( 6px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+padding: 10px
+}
+#results{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-decoration: underline;
+    color: firebrick;
+}
+
